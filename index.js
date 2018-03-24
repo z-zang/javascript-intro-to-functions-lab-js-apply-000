@@ -16,8 +16,8 @@ function  logWhisper(string){
 
 function sayHiToGrandma(string) {
   if (string == "I love you, Grandma.") {
-    return 
-  }
+    return "I love you, too.";
+  } else if (string )
   
 }
 describe('sayHiToGrandma(string)', function() {
